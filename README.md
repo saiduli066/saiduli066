@@ -24,6 +24,7 @@
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/saiduli066/saiduli066)
+![GitHub last commit](https://img.shields.io/github/last-commit/saiduli066/saiduli066)
 <br/>
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiduli066&show_icons=true&locale=en&layout=compact" alt="saiduli066" /></p>
