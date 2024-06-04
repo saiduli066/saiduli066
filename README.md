@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/yFmwVZ9/web-cover.webp)
+![MasterHead](https://i.ibb.co/X3bsJh5/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)
 <h1 align="left">Hey there👋, I'm MD Saidul Islam</h1>
 <h3 align="left">A Frontend Developer,passionate about creating intuitive and dynamic user interfaces</h3>
 <p align="left" >I enjoy working on challenging projects that push me to learn and grow.I’m particularly interested in roles where I can contribute to a team, share knowledge, and continue to enhance my skills in frontend development.</p>
